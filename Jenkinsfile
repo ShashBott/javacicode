@@ -64,7 +64,7 @@ pipeline {
                     nexusUrl: '13.233.118.188:8081', 
                     nexusVersion: 'nexus3', 
                     protocol: 'http', 
-                    repository: 'java-release', 
+                    repository: 'nexus-repo', 
                     version: '1.0.0'
                 }
             }
